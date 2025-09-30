@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=patricksooaares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Ayu&locale=en&hide_border=false" height="150" alt="stats graph" />
 
-<img src="https://camo.githubusercontent.com/a8fe9726425d5d29a6462034cb59c4c9303a2912a7dd83ce8e43a334b1dd94d9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d49737261656c417261756a6f3730266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSooaares&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSooaares;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
 
 # Tools
 <h2> Programming Languages <h2/>
