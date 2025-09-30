@@ -16,16 +16,16 @@
 ##
 -->
 
-➜ Sou estudante de Ciência da Computação 1/8. ☕︎
+➜ I am a Computer Science student 1/8. ☕︎
 
-➜ Gosto de codar, estou começando em linguagem C. ☆
+➜ I like coding, I'm starting in C language. ☆
 
-➜ Hiperfoco em computadores. ∞
+➜ Hyperfocus on computers. ∞
 
 <img src="https://github-readme-stats.vercel.app/api?username=patricksooaares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Ayu&locale=en&hide_border=false" height="150" alt="stats graph" />
 
 # Ferramentas
-<h2> Linguagens de Programação <h2/>
+<h2> Programming Languages <h2/>
 <div>
 <img align="center" alt="patrick-c" height="40px" wheight="40px"
 img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
