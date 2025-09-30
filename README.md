@@ -30,8 +30,12 @@
 
 # Tools
 <h2> Programming Languages <h2/>
-<div>
-<img align="center" alt="patrick-c" height="40px" wheight="40px"
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="patrick-c" height="40px" width="40px">
+  <img src="https://github.com/user-attachments/assets/4137d26b-b8bd-4ec1-babb-794842258589" alt="image" height="40px" width="40px">
+  <img width="40px" height="40px" alt="image" src="https://github.com/user-attachments/assets/19eb3cfe-3f54-47bd-a47d-b341e60f77d3" />
+</div>
+
 
 </div>
