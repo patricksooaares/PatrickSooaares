@@ -24,7 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=patricksooaares&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=Ayu&locale=en&hide_border=false" height="150" alt="stats graph" />
 
-## Minhas linguagens mais usadas
+## My most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSooaares&include_repo=Language-C&layout=compact&langs_count=7&theme=dark&cache_seconds=60)
 
