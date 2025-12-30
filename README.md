@@ -18,7 +18,7 @@
 
 ➜ I am a Computer Science student 2/8. ☕︎
 
-➜ I like coding, I'm starting in C language. ☆
+➜ I like coding, I'm starting in C language and Frontend. ☆
 
 ➜ Hyperfocus on computers. ∞
 
