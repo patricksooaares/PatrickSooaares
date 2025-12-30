@@ -16,7 +16,7 @@
 ##
 -->
 
-➜ I am a Computer Science student 1/8. ☕︎
+➜ I am a Computer Science student 2/8. ☕︎
 
 ➜ I like coding, I'm starting in C language. ☆
 
