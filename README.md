@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2144ff&height=120&section=header">
 
-##  ๋࣭ ⭑✮ 💻 computing scientist ₊ ⊹  ⚡︎
+##  ๋࣭ ⭑✮ 💻 Computer Science Student ₊ ⊹  ⚡︎
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=21+years+old)](https://git.io/typing-svg)
 
