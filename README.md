@@ -24,6 +24,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patricksooaares&show_icons=true&theme=tokyonight)
 
+## Currently Learning
+
+C Programming  
+Data Structures  
+Frontend Development
+
 ## My most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSooaares&include_repo=Language-C&layout=compact&langs_count=7&theme=dark&cache_seconds=60)
